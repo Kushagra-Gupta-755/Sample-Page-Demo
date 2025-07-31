@@ -4,6 +4,7 @@ To demonstrate how these improvements would look in practice, I’ve built a sim
 
 
 **Includes:**
+
 •	Lazy-loaded WebP images with defined dimensions
 •	Deferred JavaScript
 •	Inline critical CSS
