@@ -1,8 +1,9 @@
 **Optimized Sample Page Demo**
+
 To demonstrate how these improvements would look in practice, I’ve built a simplified, optimized version of the listing page:
 
 
-Includes:
+**Includes:**
 •	Lazy-loaded WebP images with defined dimensions
 •	Deferred JavaScript
 •	Inline critical CSS
